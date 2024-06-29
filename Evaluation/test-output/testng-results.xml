@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-29T13:11:59 IST" name="Default suite" finished-at="2024-06-29T13:14:00 IST" duration-ms="121089">
+    <groups>
+    </groups>
+    <test started-at="2024-06-29T13:11:59 IST" name="Default test" finished-at="2024-06-29T13:14:00 IST" duration-ms="121089">
+      <class name="Evaluation_29_6.OrangeHRM">
+        <test-method is-config="true" signature="bt()[pri:0, instance:Evaluation_29_6.OrangeHRM@1a6d8329]" started-at="2024-06-29T13:11:59 IST" name="bt" finished-at="2024-06-29T13:13:23 IST" duration-ms="83786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="test1()[pri:0, instance:Evaluation_29_6.OrangeHRM@1a6d8329]" started-at="2024-06-29T13:13:23 IST" name="test1" finished-at="2024-06-29T13:14:00 IST" duration-ms="37220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- Evaluation_29_6.OrangeHRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
